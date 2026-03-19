@@ -1,0 +1,24 @@
+# Core
+streamlit
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Text Processing
+regex
+unidecode
+pyvi
+
+# Data Loading
+kagglehub
+
+# Utilities
+joblib

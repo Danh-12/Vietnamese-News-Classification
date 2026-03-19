@@ -1,0 +1,44 @@
+{
+  "best_model": "XGBoost",
+  "accuracy": 0.7238045191802417,
+  "f1_score": 0.7191676796290607,
+  "model_name": "XGBClassifier",
+  "num_samples": 95149,
+  "train_size": 76119,
+  "test_size": 19030,
+  "num_classes": 16,
+  "labels": [
+    "Bạn đọc",
+    "Bất động sản",
+    "Chính trị",
+    "Công nghệ",
+    "Giáo dục",
+    "Kinh doanh - Tài chính",
+    "Kinh tế",
+    "Pháp luật",
+    "Quốc phòng",
+    "Sức khỏe - Đời sống",
+    "Thế giới",
+    "Thể thao",
+    "Thời sự",
+    "Văn hóa - Giải trí",
+    "Xe",
+    "Xã hội"
+  ],
+  "trained_at": "2026-01-13 09:27:59",
+  "dataset": "sarahhimeko/vietnamese-online-news-csv-dataset",
+  "all_models": {
+    "XGBoost": {
+      "accuracy": 0.7238045191802417,
+      "f1_score": 0.7191676796290607
+    },
+    "Logistic Regression": {
+      "accuracy": 0.7152916447714136,
+      "f1_score": 0.7116654616454101
+    },
+    "SVM": {
+      "accuracy": 0.72154492905938,
+      "f1_score": 0.7160767092830455
+    }
+  }
+}
